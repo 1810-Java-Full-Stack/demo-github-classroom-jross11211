@@ -1,0 +1,13 @@
+<div *ngIf="book">
+
+  <h2>Change Book Details</h2>
+  <div>
+    <label>Name:
+      <input [(ngModel)]="book.name" placeholder="name"/>
+    </label>
+    <label>Author:
+      <input [(ngModel)]="book.author" placeholder="name"/>
+    </label>
+  </div>
+
+</div>
