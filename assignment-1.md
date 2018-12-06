@@ -1,1 +1,1 @@
-Joseph Ross
+Joseph J Ross
